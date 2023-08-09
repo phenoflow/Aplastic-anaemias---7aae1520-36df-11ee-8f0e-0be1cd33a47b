@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/anaemia---primary.py
+inputModule3:
+  class: File
+  path: python/constitutional-aplastic-anaemias---primary.py
+inputModule4:
+  class: File
+  path: python/aplastic-anaemias-diamond---primary.py
+inputModule5:
+  class: File
+  path: python/familial-aplastic-anaemias---primary.py
+inputModule6:
+  class: File
+  path: python/congenital-aplastic-anaemias---primary.py
+inputModule7:
+  class: File
+  path: python/aplastic-anaemias-malformation---primary.py
+inputModule8:
+  class: File
+  path: python/aplastic-anaemias-fanconis---primary.py
+inputModule9:
+  class: File
+  path: python/aplastic-anaemias-pancytopenia---primary.py
+inputModule10:
+  class: File
+  path: python/aplastic-anaemias-hypoplasia---primary.py
+inputModule11:
+  class: File
+  path: python/aplastic-anaemias---primary.py
+inputModule12:
+  class: File
+  path: python/aplastic-anaemias-acquired---primary.py
+inputModule13:
+  class: File
+  path: python/aplastic-anaemias-aplasia---primary.py
+inputModule14:
+  class: File
+  path: python/chronic-aplastic-anaemias---primary.py
+inputModule15:
+  class: File
+  path: python/hypoplastic-aplastic-anaemias---primary.py
+inputModule16:
+  class: File
+  path: python/toxic-aplastic-anaemias---primary.py
+inputModule17:
+  class: File
+  path: python/transient-aplastic-anaemias---primary.py
+inputModule18:
+  class: File
+  path: python/secondary-aplastic-anaemias---primary.py
+inputModule19:
+  class: File
+  path: python/aplastic-anaemias---secondary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
